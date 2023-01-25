@@ -1,0 +1,26 @@
+da-scrollerWrap .da-scroller::-webkit-scrollbar-thumb {
+    background-color: #ff2c2c1c !important;
+    border-color: #33090f00 !important;
+}
+
+.theme-dark .da-scrollerWrap .da-scroller::-webkit-scrollbar-track-piece {
+    background-color: #1e00005b !important;
+    border-color: #33090954 !important;
+}
+
+.theme-dark {
+    --background-primary: #df9eba6e;
+    --background-secondary: #df9eba37;
+    --background-tertiary: #5a5a5a00;
+    --deprecated-panel-background: rgba(160, 33, 33, 0.254);
+    --channeltextarea-background: #f496bc00;
+
+}
+
+.app-2rEoOp {
+    background-color: rgba(68, 15, 31, 0);
+}
+
+.bg-h5JY_x {
+    background-color: rgba(51, 9, 9, 0);
+}

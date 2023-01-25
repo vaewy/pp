@@ -44,6 +44,7 @@
     --background-secondary: #df9ebabd;
     --background-secondary-alt: #df9eb45b;
     --background-tertiary: #cccccc;
+   	--background-tertiary-alt: url(https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png);
     --background-floating: #94536efd;
     --background-accent: #c55e53;
     --background-modifier-hover: rgba(178, 83, 108, 0.193);

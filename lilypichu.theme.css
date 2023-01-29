@@ -5,7 +5,7 @@
 * @invite rtBQX5D3bD
 * @version 1.0
 */
-@import url("https://raw.githubusercontent.com/Akykye/LilyPichu/a1b82cac2ffd5f55ef26ca16c8a16fb70250dc04/lilypichu.theme.css");
+@import url("https://akykye.github.io/LilyPichu/main.css");
 
 :root {
 
@@ -13,12 +13,9 @@
 
 /* Jumping GIF */
 /*--jumping-gif: url('https://i.imgur.com/dCd49s0.gif');
-
 /* Background (if you want an image replace it by : 
-
 --background-tertiary-alt: url("image-link"); without that => */
 /*--background-tertiary-alt: #FFC7D4;
-
 /* Border-radius for the whole theme */
 --border-radius: 20px;
 
@@ -43,8 +40,7 @@
     --background-primary: #df9ebaad;
     --background-secondary: #df9ebabd;
     --background-secondary-alt: #df9eb45b;
-    --background-tertiary: url("https://i.imgur.com/HbMRJBR.png");
-   	--background-tertiary-alt: url("https://i.imgur.com/HbMRJBR.png");
+    --background-tertiary: #cccccc;
     --background-floating: #94536efd;
     --background-accent: #c55e53;
     --background-modifier-hover: rgba(178, 83, 108, 0.193);

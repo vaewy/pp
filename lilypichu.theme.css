@@ -17,7 +17,7 @@
   /* Background (if you want an image replace it by : 
 
 --background-tertiary-alt: url("image-link"); without that => */
-  --background-tertiary-alt: transparent;
+  --background-tertiary-alt: #ffc7d4;
 
   /* Border-radius for the whole theme */
   --border-radius: 20px;
@@ -41,7 +41,7 @@
   --background-primary: #5e3640;
   --background-secondary: #49292f;
   --background-secondary-alt: #3b1d24;
-  --background-tertiary: #220f14;
+  --background-tertiary: transparent;
   --background-floating: #221115;
   --background-accent: #c5536c;
   --channeltextarea-background: var(--background-secondary);

@@ -62,18 +62,34 @@
 
     /* Other */
     --deprecated-quickswitcher-input-background: var(--background-primary);
+    --deprecated-quickswitcher-input-background: var(--background-primary);
 }
-    .colorBrand-ROmMP1 { color: #53b8c5fc;}
-    .colorDefault-2K3EoJ.focused-3afm-j, .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) { background-color: var(--background-modifier-hover) !important;}
+.colorBrand-3cPPsm {
+  color: #c5536c;
+}
+.colorDefault-CDqZdO.focused-3qFvc8,
+.colorDefault-CDqZdO:active:not(.hideInteraction-2jPGL_) {
+  background-color: var(--background-modifier-hover) !important;
+}
 
-    /* Buttons */
-    .lookFilled-1Gx00P { background-color: #7dafc4 !important;}
-    .lookFilled-1Gx00P:active, .lookFilled-1Gx00P:hover { background-color: #d07cb493 !important;}
-    .lookOutlined-3sRXeN:not(.colorWhite-rEQuAQ) { color: #a3343a; border-color: #5b090993;}
+/* Buttons */
+.lookFilled-yCfaCM {
+  background-color: #c5536c !important;
+}
+.lookFilled-yCfaCM:active,
+.lookFilled-yCfaCM:hover {
+  background-color: #b64a61 !important;
+}
+.lookOutlined-3yKVGo:not(.colorWhite-1H92hK) {
+  color: #c5536c;
+  border-color: #c5536c;
+}
 
-    /* Hover background */
-    .colorDefault-2K3EoJ.focused-3afm-j, .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) { color: var(--interactive-normal);}
-
+/* Hover background */
+.colorDefault-CDqZdO.focused-3qFvc8,
+.colorDefault-CDqZdO:active:not(.hideInteraction-2jPGL_) {
+  color: var(--interactive-normal);
+}
 .theme-light {
 
     /* Text */

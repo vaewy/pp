@@ -38,11 +38,11 @@
   --interactive-active: #e2c1c7;
 
   /* Background color */
-  --background-primary: #df9ebaad;
-  --background-secondary: #df9ebabd;
-  --background-secondary-alt: #df9eb45b;
-  --background-tertiary: #cccccc05;
-  --background-floating: #94536efd;
+    --background-primary: #5e3640;
+  --background-secondary: #49292f;
+  --background-secondary-alt: #3b1d24;
+  --background-tertiary: transparent;
+  --background-floating: #221115;
   --background-accent: #c5536c;
   --channeltextarea-background: var(--background-secondary);
   --background-modifier-hover: rgba(56, 31, 31, 0.32);

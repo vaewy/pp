@@ -41,7 +41,7 @@
     --background-primary: #5e3640;
   --background-secondary: #49292f;
   --background-secondary-alt: #3b1d24;
-  --background-tertiary: transparent;
+  --background-tertiary: #cccccc05;
   --background-floating: #221115;
   --background-accent: #c5536c;
   --channeltextarea-background: var(--background-secondary);

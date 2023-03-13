@@ -49,9 +49,9 @@
   --background-modifier-active: rgba(19, 12, 12, 0.32);
   --background-modifier-selected: rgba(31, 21, 21, 0.32);
   --toast-background: #df9eba00 !important;
-  --toast-header: #df9ebaad !important;
+  --toast-header: #df9eba0c !important;
   --toast-contents: #c5536c !important;
-  --toast-border: #df9ebaad !important;
+  --toast-border: #df9eba11 !important;
   --input-background: var(--background-secondary);
 
   /* Scrollbar */

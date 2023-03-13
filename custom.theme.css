@@ -11,7 +11,7 @@ da-scrollerWrap .da-scroller::-webkit-scrollbar-thumb {
 .theme-dark {
     --background-primary: #df9eba6e;
     --background-secondary: #df9eba00;
-    --background-tertiary: #df9eba6e;
+    --background-tertiary: #5a5a5a00;
     --deprecated-panel-background: rgba(160, 33, 33, 0.008);
     --channeltextarea-background: #f496bc00;
 

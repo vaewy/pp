@@ -15,8 +15,8 @@
     --backgroundsize: cover;
     --popoutsize: cover;
     --backdropsize: cover;
-    --scrollbar-auto-thumb: var(--background-tertiary);
-    --scrollbar-auto-track: var(--background-secondary-alt);
-    --scrollbar-thin-thumb: var(--background-tertiary);
+    --scrollbar-auto-thumb: transparent;
+    --scrollbar-auto-track: transparent;
+    --scrollbar-thin-thumb: transparent;
     --scrollbar-thin-track: transparent;
 }

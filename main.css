@@ -216,32 +216,6 @@
   z-index: unset;
 }
 
-.panel-2ZFCRb {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 56px;
-  border-bottom: none;
-  background-color: var(--background-tertiary);
-  transition: width 0.35s;
-}
-
-.panel-2ZFCRb .info-88fTUI,
-.panel-2ZFCRb .actions-zk2vB_ {
-  opacity: 0;
-}
-.panel-2ZFCRb:hover {
-  width: 274px;
-  margin: 8px;
-  z-index: 1;
-  border-radius: 5px var(--border-radius) var(--border-radius) 5px;
-  border-left: 5px solid var(--background-accent);
-  box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2), 0 0 0 1px rgba(56, 31, 31, 0.11);
-}
-.panel-2ZFCRb:hover .info-88fTUI,
-.panel-2ZFCRb:hover .actions-zk2vB_ {
-  opacity: 1;
-}
 
 :root .content-1SgpWY .sidebar-1tnWFu {
   border-radius: 0;
